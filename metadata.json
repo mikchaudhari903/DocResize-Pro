@@ -1,0 +1,6 @@
+{
+  "name": "PAN Card & Aadhaar Document Resizer",
+  "description": "An instant, browser-based crop, resize, and compress tool for Photo, Signature, and Aadhaar card images meeting NSDL/UTIITSL and official Indian government specifications with an auto-200 DPI converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
